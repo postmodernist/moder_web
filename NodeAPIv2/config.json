@@ -1,6 +1,6 @@
 {
 	"port" : 1337,
 	"mongoose": {
-	"uri": "mongodb://localhost/test1"
+	"uri": "mongodb://192.168.56.102:27017/teste"
 	}
 }
