@@ -1,9 +1,6 @@
 var express = require('express');
 var app = express();
 var log = require('./libs/log')(module);
-// var config = require('./config');
-  
-
 
 app.listen(1337, function() {
   log.info('Server started at port 1337');
